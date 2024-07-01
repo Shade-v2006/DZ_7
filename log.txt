@@ -1,0 +1,14 @@
+июн. 23, 2024 6:09:17 PM view.CalculationView Start
+INFO: Получение выражения от пользователя
+июн. 23, 2024 8:26:15 PM view.CalculationView createComplexNums
+INFO: Получение комплексных числе из строки
+июн. 23, 2024 8:26:15 PM view.CalculationView Start
+INFO: Получение выражения от пользователя
+июн. 23, 2024 8:26:15 PM view.CalculationView SumComplexNum
+INFO: Суммирование чисел: ( 1.0, 2.0i ) и ( 3.0, 4.0i )
+июн. 23, 2024 8:27:06 PM view.CalculationView createComplexNums
+INFO: Получение комплексных числе из строки
+июн. 23, 2024 8:27:06 PM view.CalculationView Start
+INFO: Получение выражения от пользователя
+июн. 23, 2024 8:27:06 PM view.CalculationView MultiplierComplexNum
+INFO: Умножение чисел: ( 1.0, 2.0i ) и ( 3.0, 4.0i )
